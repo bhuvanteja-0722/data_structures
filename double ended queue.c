@@ -13,7 +13,7 @@ void display(void);
 int main()
 {
     int choice;
-    clrscr();
+
     do
     {
         printf("\n1.Insert at right ");
